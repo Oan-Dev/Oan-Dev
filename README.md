@@ -26,13 +26,17 @@ I'm Olivier and am a newcomer in web development and am a self-taught learning t
 
 [<img align="left" alt="HTML" with="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" style="padding-right:11px;" />]
 -->
+### Langauages in currently under study : 
+
+- Vannila Js
+- SQLite
 
 ### The following Languages and Tools :
 
 - PHP
 - MySql
 - PostgreSQL
-- SQLite
+
 <!-- 
 [<img align="left" alt="HTML" with="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:11px;" />]
 
