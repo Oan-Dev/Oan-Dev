@@ -46,6 +46,7 @@ I'm Olivier and am a newcomer in web development and am a self-taught learning t
 
 [![img_contact](img/linkedin-svgrepo-com.svg)](https://fr.linkedin.com/in/olivier-alain-developpeur-web)
 
+
 ### about my portfolio :
 
 This is coming soon
