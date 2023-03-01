@@ -33,7 +33,7 @@
   
 <br><br><br>
 
-### The cuurently Languages and Tools in under study
+### The currently Languages and Tools in under study
 
 <br>
 
