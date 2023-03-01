@@ -62,7 +62,7 @@
 
 ### Connect with me
 
-[![img_contact](./img/icons8-linkedin-2.svg )](https://fr.linkedin.com/in/olivier-alain-developpeur-web)
+[![Linkedin](./img/icons8-linkedin-2.svg )](https://fr.linkedin.com/in/olivier-alain-developpeur-web)
 
 <br>
 
