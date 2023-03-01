@@ -1,72 +1,73 @@
-<!--
-#GH-LIGHT-MODE-ONLY
-#GH-DARK-MODE-ONLY
--->
+
 # Oan-Dev
 
-I'm Olivier and am a newcomer in web development and am a self-taught learning to become a good developer. I 'm french [:fr:] living in france.
+> I'm Olivier and am a newcomer in web development and am a self-taught learning to become a good developer. I 'm french :fr:  and living in france.
 
-## My Goal :
+<br><br>
 
-- controlling the programming and the language basement.
-- creating the website for all users
+## My Goal
 
-### The Acttually Languages and Tools :
+> - controlling the programming and the language basement.
+> - creating the website for all users
 
-- HTML
-- CSS
-- VsCode
-- fedora
-<!-- 
-[<img align="left" alt="HTML" with="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:11px;" />]
+<br>
 
-[<img align="left" alt="HTML" with="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:11px;" />]
+--- 
 
-[<img align="left" alt="HTML" with="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;" />]
 
-[<img align="left" alt="HTML" with="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" style="padding-right:11px;" />]
--->
-### Langauages in currently under study : 
+### The Acttually Languages and Tools
 
-- Vannila Js
-- SQLite
+<br>
 
-### The following Languages and Tools :
 
-- PHP
-- MySql
-- PostgreSQL
+<img align="left" alt="HTML" style="width: 50px;  padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 
-<!-- 
-[<img align="left" alt="HTML" with="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:11px;" />]
 
-[<img align="left" alt="HTML" with="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:11px;" />]
+<img align="left" alt="CSS" style="width:45px; padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-[<img align="left" alt="HTML" with="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:11px;" />]
 
-[<img align="left" alt="HTML" with="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:11px;" />]
--->
+<img align="left" alt="VsCode" style="width:50px; padding-right: 11px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+
+<img align="left" alt="fedora" style="width: 50px; padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" /> 
+  
+<br><br><br>
+
+### The cuurently Languages and Tools in under study
+
+<br>
+
+ <img align="left" alt="Javascript" style="width: 50px; padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+
+
+<img align="left" alt="SQLite" style="width: 50px; padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+
+
+<br><br><br>
+### The following Languages and Tools
+
+<br>
+<img align="left" alt="PHP" style="width: 50px; padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
+<img align="left" alt="Mysql" style="width: 50px; padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+<img align="left" alt="PostgreSQL" style="width: 50px; padding-right: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+
+
+<br><br><br>
+--- 
+
 
 ### Connect with me
 
-[![img_contact](img/linkedin-svgrepo-com.svg)](https://fr.linkedin.com/in/olivier-alain-developpeur-web)
+[![img_contact](./img/icons8-linkedin-2.svg )](https://fr.linkedin.com/in/olivier-alain-developpeur-web)
+
+<br>
 
 
-### about my portfolio :
+### About my portfolio
 
-This is coming soon
+> This is coming soon
 
-<!--
-**Oan-Dev/Oan-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
