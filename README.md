@@ -1,8 +1,8 @@
 
 # Oan-Dev
 
-<div style=" height:70vh; display:flex; justify-content: center; align; margin-bottom: 2rem">
-	<img  style="width: 80%;" alt="code" src="./img/code-html.jpg" >
+<div>
+	<img  style="width: 100%;" alt="code" src="./img/code-html.jpg" >
 </div>
 
 > I'm Olivier. I 'm french :fr: and living in France. I develop websites with a specialisation in JavaScript.
@@ -78,6 +78,8 @@
 <img align="left" alt="Angular" style="width: 50px; padding: 11px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
           
 </div>
+
+<Br />
 
 
 --- 
