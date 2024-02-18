@@ -1,7 +1,7 @@
 
 # Oan-Dev
 
-<div style="margin-bottom: 2rem">
+<div style="margin-bottom: 5rem">
 	<img  style="width: 100%;" alt="code" src="./img/code-html.jpg" >
 </div>
 
