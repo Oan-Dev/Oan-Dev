@@ -2,7 +2,7 @@
 # Oan-Dev
 
 <div style="margin-bottom: 2rem">
-	<img  style="width: 80%;" alt="code" src="./img/code-html.jpg" >
+	<img  style="width: 100%;" alt="code" src="./img/code-html.jpg" >
 </div>
 
 > I'm Olivier. I 'm french :fr: and living in France. I develop websites with a specialisation in JavaScript.
